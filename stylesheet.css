@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    color: white;
+    width: 70%;
+    margin: auto;
+}
+
+h1 {
+    margin: auto;
+    text-align: center;
+    width: fit-content;
+    margin-top: 2rem;
+    font-size: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+dialog {
+    width: 30%;
+    margin: auto;
+}
+
+#newBookInputFields {
+    margin: auto;
+    width: 90%;
+    display: flex;
+}
+
+#newBookSubmit {
+    display: flex;
+    width: 15%;
+    margin: auto;
+    margin-right: 0;
+    margin-top: 1rem;
+    text-align: center;
+}
